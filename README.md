@@ -2,25 +2,21 @@
 
 
 ```
-____   _________________________   ________ ___________
-\   \ /   /\_   _____/\______   \ /  _____/ \_   _____/
- \   Y   /  |    __)_  |       _//   \  ___  |    __)_
-  \     /   |        \ |    |   \\    \_\  \ |        \ 2018 VERGE/XVG
-   \___/   /_______  / |____|_  / \______  //_______  /
-                   \/         \/         \/         \/
+ 2018 CashBit CSBT
+
 ```
 
-# VERGE [XVG] Source Code
+# Cashbit [CSBT] Source Code
 
 ## License
 
-VERGE is released under the terms of the MIT license. See [LICENSE](LICENSE) for more
+CashBit is released under the terms of the MIT license. See [LICENSE](LICENSE) for more
 information or see https://opensource.org/licenses/MIT.
 
 ## Development Process
 
 The `master` branch is regularly built and tested, but is not guaranteed to be
-completely stable. [Tags](https://github.com/vergecurrency/VERGE/tags) are created
+completely stable. [Tags](https://github.com/vergecurrency/CashBit/tags) are created
 regularly to indicate new official, stable release versions of VERGE.
 
 The contribution workflow is described in [CONTRIBUTING.md](CONTRIBUTING.md).
@@ -35,7 +31,7 @@ Specification | Value
 Protocol | PoW (proof of Work)
 Algorithms | scrypt, x17, Lyra2rev2, myr-groestl, & blake2s
 Blocktime | 30 seconds
-Total Supply | 16,500,000,000 XVG
+Total Supply | 16,500,000,000 CSBT
 RPC port | 20102
 P2P port | 21102
 TOR port | 9089
@@ -57,17 +53,17 @@ Block Number | Reward
 
 ## Resources
 
-* [Blockchain Explorer](https://verge-blockchain.info/)
-* [Mining Pool List](https://vergecurrency.com/community/xvg-mining-pools/)
+* [Blockchain Explorer](https://CashBit-blockchain.info/)
+* [Mining Pool List](tba)
 * [Black Paper](https://vergecurrency.com/static/blackpaper/Verge-Anonymity-Centric-CryptoCurrency.pdf)
 
 ### Community
 
-* [Telegram](https://t.me/VERGExvg)
-* [Discord](https://discord.gg/vergecurrency)
-* [Twitter](https://www.twitter.com/vergecurrency)
-* [Facebook](https://www.facebook.com/VERGEcurrency/)
-* [Reddit](https://www.reddit.com/r/vergecurrency/)
+* [Telegram](tba)
+* [Discord](tba)
+* [Twitter](tba)
+* [Facebook](tba)
+* [Reddit](tba)
 
 ## Wallets
 
